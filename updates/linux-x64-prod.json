@@ -1,8 +1,8 @@
 {
   "linux-x64-prod": {
-    "update": "https://github.com/Octaniel/update_electron/releases/download/linux-x64-prod-0.0.1/Simple.Updater.Example-0.0.1.AppImage",
-    "install": "https://github.com/Octaniel/update_electron/releases/download/linux-x64-prod-0.0.1/Simple.Updater.Example-0.0.1.AppImage",
-    "version": "0.0.1",
-    "sha256": "f0d025d33822e2a005d90c700a657be7c125e81f5e6bb2a263859ad4914d3441"
+    "update": "https://github.com/Octaniel/update_electron/releases/download/linux-x64-prod-0.0.2/Simple.Updater.Example-0.0.2.AppImage",
+    "install": "https://github.com/Octaniel/update_electron/releases/download/linux-x64-prod-0.0.2/Simple.Updater.Example-0.0.2.AppImage",
+    "version": "0.0.2",
+    "sha256": "0a4f3c45c98ef4787d899d881a95d282e39577ce7262f874e14a22916994dd4a"
   }
 }
